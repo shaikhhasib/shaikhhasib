@@ -1,49 +1,26 @@
----
-<h1 align="center">Mohammad Hasbuddin</h1>
-<h3 align="center">Linux Infrastructure Engineer • Automation • Production Systems</h3>
+👨‍🚀 Mohammad Hasbuddin | Linux Infrastructure Engineer
 
-<p align="center">
-Designing automated, secure, and scalable Linux infrastructure.
-</p>
+🌌 Current Mission
 
----
+🔬 Research & Build:  
+- Rocky 9 PXE + UEFI automation framework  
+- Control Room VM consolidation (45 → 8 architecture)  
+- Diskless boot environments  
+- Secure VLAN-isolated production networks  
+- CI pipelines for firmware & hardware testing
 
-## 🟢 Currently Building
+🚀 Projects
 
-<div align="center">
+- 🖥 rocky9-kickstart-automation: PXE + UEFI deployment automation  
+- ⚡ pxe-uefi-boot-framework: Diskless boot environments  
+- 🧪 firmware-ci-pipeline: CI/CD for firmware & hardware validation  
+- 🏗 ceph-cluster-lab: Distributed storage & NFS migration  
 
-| Project | Status |
-|--------|--------|
-| Rocky 9 PXE + UEFI Automation | 🟢 Active |
-| Control Room VM Consolidation (45 → 8) | 🟢 Active |
-| Diskless Boot Environments | 🟢 Active |
-| Secure VLAN-Isolated Production Networks | 🟢 Active |
-| CI Pipelines for Firmware Testing | 🟢 Active |
+💻 Tech Arsenal
 
-</div>
+RHEL / Rocky Linux • Ansible • Bash • Python • GitHub Actions • GitLab CI • CEPH • WEKA • NFS • RAID • VLANs • Secure SSH  
 
----
-
-## 🏗 Infrastructure Flow
-Bare Metal
-↓
-PXE Boot
-↓
-Kickstart Provisioning
-↓
-Ansible Configuration
-↓
-Hardened Production Deployment
-## 🧠 Technical Stack
-
-**OS:** RHEL 7 / 8 / 9 • Rocky Linux  
-**Automation:** Ansible • Bash • Python • GitHub Actions • GitLab CI  
-**Storage:** CEPH • WEKA • NFS • RAID  
-**Networking:** VLANs • Private Networks • Secure SSH • Firewalls  
-
----
-
-## 📊 Live Signals
+📊 Cosmic Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhhasib&theme=github-dark&hide_border=true" width="700">
@@ -53,8 +30,6 @@ Hardened Production Deployment
   <img src="https://github-readme-stats.vercel.app/api?username=shaikhhasib&show_icons=true&theme=dark&hide_border=true" width="350">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhhasib&theme=dark&hide_border=true" width="350">
 </p>
-
----
 
 ## 🚀 Selected Projects
 
@@ -74,4 +49,8 @@ Hardened Production Deployment
 <p align="center">
 Building production-grade Linux infrastructure that provisions itself.
 </p>
+📡 Contact Frequencies
+
+Email: hasib@example.com  
+LinkedIn: Connect with me  
 
