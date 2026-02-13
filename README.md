@@ -51,6 +51,6 @@ Building production-grade Linux infrastructure that provisions itself.
 </p>
 📡 Contact Frequencies
 
-Email: hasib@example.com  
+Email: hasibdelhi@gmail.com
 LinkedIn: Connect with me  
 
