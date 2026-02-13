@@ -1,64 +1,76 @@
-<!-- Banner -->
 <h1 align="center">Mohammad Hasbuddin</h1>
-<h3 align="center">Linux Systems Administrator | Infrastructure Engineer | Automation Specialist</h3>
+<h3 align="center">Linux Infrastructure Engineer • Automation • Production Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-RHEL%20%7C%20Rocky-blue?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/Automation-Ansible-red?style=for-the-badge&logo=ansible">
-  <img src="https://img.shields.io/badge/Storage-CEPH%20%7C%20WEKA-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Virtualization-KVM%20%7C%20VMware-orange?style=for-the-badge">
+Designing automated, secure and scalable Linux infrastructure.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🔄 Current Engineering Focus
 
-- 🔧 Linux Infrastructure Engineer
-- 🖥 Expert in RHEL / Rocky Linux environments
-- ⚙ PXE / Kickstart / UEFI Automation
-- 📦 Distributed Storage (CEPH, WEKA, NFS)
-- 🚀 CI/CD & Firmware Build Pipelines
-- 🔐 Secure Production Network Architecture
-
----
-
-## 🏗 Core Expertise
-
-| Infrastructure | Automation | Storage | Networking |
-|---------------|------------|----------|------------|
-| RHEL 7/8/9 | Ansible | CEPH | VLAN Design |
-| Rocky Linux | GitLab CI | WEKA | Private Networks |
-| Diskless PXE Boot | GitHub Actions | NFS | Secure SSH |
-| HPC Systems | Shell/Python | RAID | Firewall Rules |
+- Rocky 9 PXE + UEFI automation framework
+- Control room infrastructure consolidation (45 → 8 architecture)
+- Diskless boot environments
+- Secure VLAN-isolated production networks
+- CI pipelines for firmware validation
 
 ---
 
-## 📊 GitHub Stats
+## 🏗 Infrastructure Workflow
+
+
+Automation is not a tool — it is the architecture.
+
+---
+
+## ⚡ Engineering Impact
+
+- Automated OS provisioning across multi-node environments
+- Designed secure production network segmentation
+- Built scalable diskless PXE infrastructure
+- Migrated legacy storage to distributed systems
+- Reduced physical server footprint via VM consolidation
+
+---
+
+## 🧠 Technical Stack
+
+**Operating Systems**  
+RHEL 7 / 8 / 9 • Rocky Linux  
+
+**Automation**  
+Ansible • Bash • Python • GitHub Actions • GitLab CI  
+
+**Storage**  
+CEPH • WEKA • NFS • RAID Architectures  
+
+**Networking**  
+VLAN segmentation • Private production networks • Secure SSH • Firewall policy design  
+
+---
+
+## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikhhasib&show_icons=true&theme=dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhhasib&theme=dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhhasib&theme=github-dark&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikhhasib&show_icons=true&theme=dark&hide_border=true">
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-- 🔹 Rocky 9 Automated Deployment Framework
-- 🔹 UEFI PXE Boot Infrastructure
-- 🔹 EPICS Control System Automation
-- 🔹 Firmware CI Integration
+- rocky9-kickstart-automation
+- pxe-uefi-boot-framework
+- firmware-ci-pipeline
+- ceph-cluster-lab
 
 ---
 
-## 📫 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<p align="center">
+⚙ Infrastructure • Automation • Production
 </p>
-
----
-
-⭐ Building production-grade Linux infrastructure.
