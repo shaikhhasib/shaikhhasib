@@ -1,16 +1,3 @@
-
-Automation is not a tool — it is the architecture.
-
----
-
-## ⚡ Engineering Impact
-
-- Automated OS provisioning across multi-node environments
-- Designed secure production network segmentation
-- Built scalable diskless PXE infrastructure
-- Migrated legacy storage to distributed systems
-- Consolidated physical servers via VM architecture
-
 ---
 <h1 align="center">Mohammad Hasbuddin</h1>
 <h3 align="center">Linux Infrastructure Engineer • Automation • Production Systems</h3>
